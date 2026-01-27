@@ -98,12 +98,31 @@ A curated collection of resources for the modern economist.
 ## 🏛️ Institutions & Governance
 
 ### 🧠 Major Think Tanks
-* 🇪🇺 **Bruegel** - [European Policy Think Tank](https://www.bruegel.org/).
-* 🇧🇷 **FGV** - [Fundação Getulio Vargas](https://portal.fgv.br/).
-* 🇬🇧 **IFS** - [Institute for Fiscal Studies](https://ifs.org.uk/).
-* 🇩🇪 **KAS** - [Konrad Adenauer Foundation](https://www.kas.de/).
-* 🇺🇸 **NBER** - [National Bureau of Economic Research](https://www.nber.org/).
-* 🇺🇸 **PIIE** - [Peterson Institute for International Economics](https://www.piie.com/).
+* 🇺🇸 **AEI** - [American Enterprise Institute](https://www.aei.org/)
+* 🇺🇸 **Brookings** - [Brookings Institution](https://www.brookings.edu/)
+* 🇧🇪 **Bruegel** - [Bruegel](https://www.bruegel.org/)
+* 🇺🇸 **Carnegie** - [Carnegie Endowment for International Peace](https://www.carnegie-mec.org/)
+* 🇺🇸 **Cato** - [Cato Institute](https://www.cato.org/)
+* 🇺🇸 **CSIS** - [Center for Strategic and International Studies](https://www.csis.org/)
+* 🇧🇪 **CEPS** - [Centre for European Policy Studies](https://www.ceps.eu/)
+* 🇬🇧 **Chatham** - [Chatham House](https://www.chathamhouse.org/)
+* 🇨🇳 **CASS** - [Chinese Academy of Social Sciences](http://casseng.cssn.cn/)
+* 🇺🇸 **CFR** - [Council on Foreign Relations](https://www.cfr.org/)
+* 🇫🇷 **IFRI** - [French Institute of International Relations](http://www.ifri.org/en)
+* 🇧🇷 **FGV** - [Fundação Getulio Vargas](https://portal.fgv.br/)
+* 🇩🇪 **DGAP** - [German Council on Foreign Relations](https://dgap.org/en)
+* 🇺🇸 **Heritage** - [Heritage Foundation](https://www.heritage.org/)
+* 🇺🇸 **Hudson** - [Hudson Institute](https://www.hudson.org/)
+* 🇧🇪 **ICG** - [International Crisis Group](https://www.crisisgroup.org/)
+* 🇬🇧 **IISS** - [International Institute for Strategic Studies](https://www.iiss.org/)
+* 🇯🇵 **JIIA** - [Japan Institute of International Affairs](https://www.jiia.or.jp/eng/)
+* 🇩🇪 **IfW** - [Kiel Institute for the World Economy](https://www.kielinstitut.de/)
+* 🇮🇳 **ORF** - [Observer Research Foundation](https://www.orfonline.org/)
+* 🇺🇸 **PIIE** - [Peterson Institute for International Economics](https://www.piie.com/)
+* 🇺🇸 **RAND** - [RAND Corporation](https://www.rand.org/)
+* 🇩🇪 **SWP** - [Stiftung Wissenschaft und Politik](https://www.swp-berlin.org/)
+* 🇸🇪 **SIPRI** - [Stockholm International Peace Research Institute](https://www.sipri.org/)
+* 🇺🇸 **Woodrow Wilson** - [Woodrow Wilson International Center for Scholars](https://www.wilsoncenter.org/)
 
 ### 🏦 Central Banks
 * 🏦 [Bank for International Settlements (BIS)](https://www.bis.org/)
