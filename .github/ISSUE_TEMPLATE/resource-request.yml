@@ -1,0 +1,45 @@
+name: ➕ Resource Suggestion
+description: Suggest a new resource to be added to the list.
+title: "[SUGGESTION]: <Resource Name>"
+labels: ["enhancement", "resource-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for wanting to make **Awesome Economics** even better!
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      placeholder: e.g., NBER Working Papers
+    validations:
+      required: true
+  - type: input
+    id: resource-url
+    attributes:
+      label: Resource URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Studying & Courses
+        - Research & Discovery
+        - Data Sources
+        - Software & Programming
+        - Institutions & Governance
+        - Professional Associations
+        - Academic & Career Portals
+        - Media & News
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: Write a short, one-sentence description of the resource.
+    validations:
+      required: true

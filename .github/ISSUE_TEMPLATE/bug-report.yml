@@ -1,0 +1,17 @@
+name: 🐛 Broken Link / Issue
+description: Report a broken link or outdated information.
+title: "[ISSUE]: <Describe the issue>"
+labels: ["bug", "maintenance"]
+body:
+  - type: input
+    id: broken-link
+    attributes:
+      label: Which link is broken or outdated?
+      placeholder: e.g., The World Bank Open Data link returns a 404 error.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Proposed Fix (Optional)
+      placeholder: If you have the updated URL, please provide it here.
