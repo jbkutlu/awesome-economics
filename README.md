@@ -17,6 +17,7 @@ A curated collection of resources for the modern economist.
 * [💻 Software & Programming](#-software--programming)
 * [🏛️ Institutions & Governance](#-institutions--governance)
 * [🤝 Professional Associations](#-professional-associations)
+* [🎓 Academic & Career Portals ](#-academic--career-portals)
 * [🎙️ Media & News](#-media--news)
 
 ---
@@ -140,6 +141,15 @@ A curated collection of resources for the modern economist.
 * 🇪🇺 [European Economic Association (EEA)](https://www.eeassoc.org/)
 * 🌎 [International Economic Association (IEA)](http://www.iea-world.org/)
 * 🇯🇵 [Japanese Economic Association (JEA)](http://www.jeaweb.org/english/)
+
+---
+
+## 🎓 Academic & Career Portals
+* [EconJobMarket](https://econjobmarket.org/) - Global application portal for economic research.
+* [Euraxess](https://euraxess.ec.europa.eu/) - European researcher mobility and jobs portal.
+* [Inomics](https://inomics.com/) - Economics jobs, courses, and pre-doc positions.
+* [PREDOC](https://predoc.org/) - Dedicated to pre-doctoral opportunities in the social sciences.
+* [Research In Germany](https://www.research-in-germany.org/en.html) - Germany's leading portal for economic research.
 
 ---
 
