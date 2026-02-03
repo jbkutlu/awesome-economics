@@ -1,13 +1,26 @@
-# Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<div align="center">
+
+# Awesome Economics <a href="https://github.com/sindresorhus/awesome" target="_blank"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" vertical-align="middle"></a>
 
 A curated collection of resources for the modern economist.
 
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![Update](https://img.shields.io/badge/Last_Update-active-blue.svg)
-[![Events](https://img.shields.io/badge/Live-Event_Calendar-blueviolet?style=flat&logo=googlecalendar)](https://jbkutlu.github.io/awesome-economics/)
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">
+<img src="https://img.shields.io/badge/Last_Update-active-blue.svg" alt="Update">
+<a href="https://jbkutlu.github.io/awesome-economics/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Event_Calendar-blueviolet?style=flat&logo=googlecalendar" alt="Events">
+</a>
 
+</div>
 
----
+<div align="center">
+  <h3>📅 Live Event Dashboard Preview</h3>
+  <a href="https://jbkutlu.github.io/awesome-economics/" target="_blank">
+    <img src="assets/site-preview.jpeg" alt="Awesome Economics Events Dashboard" style="max-width: 100%; border-radius: 10px; border: 1px solid #e1e4e8;">
+  </a>
+  <p>
+    <i>Click the image above to explore upcoming conferences, competitions, and deadlines.</i>
+  </p>
+</div>
 
 ## 📑 Table of Contents
 * [🎓 Studying & Courses](#-studying--courses)
