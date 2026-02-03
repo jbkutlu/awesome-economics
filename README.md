@@ -4,7 +4,7 @@ A curated collection of resources for the modern economist.
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Update](https://img.shields.io/badge/Last_Update-active-blue.svg)
-![Status](https://img.shields.io/badge/Status-Revitalized-orange.svg)
+[![Events](https://img.shields.io/badge/Live-Event_Calendar-blueviolet?style=flat&logo=googlecalendar)](https://hi-burak.me/awesome-economics)
 
 
 ---
