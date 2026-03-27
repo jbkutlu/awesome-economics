@@ -40,10 +40,12 @@ A curated collection of resources for the modern economist.
 | Platform | Resource | Description |
 | :--- | :--- | :--- |
 | **Coursera** | [Economics & Finance](https://www.coursera.org/browse/social-sciences/economics) | Offers verified certificates and specialization programs from top-tier global universities. |
+| **Econometrics Academy** | [Econometrics](https://www.youtube.com/channel/UCAN7taaPrBLX2LiWbFmJZfw) | Practical, accessible videos on econometrics. |
 | **edX** | [Economics & Finance](https://www.edx.org/search?q=economics&tab=program&page=1) | Provides rigorous MicroMasters and professional tracks focused on advanced economic analysis. |
 | **Khan Academy** | [Economics](https://www.khanacademy.org/economics-finance-domain) | An excellent starting point for mastering foundational micro and macro concepts through intuitive lessons. |
 | **Marginal Revolution** | [Economics](https://mru.org/) | Engaging video-based learning that bridges the gap between economic theory and real-world applications. |
 | **MIT** | [OCW Economics](https://ocw.mit.edu/search/?d=Economics&s=department_course_numbers.sort_coursenum) | Open access to comprehensive lecture notes, exams, and reading lists from undergraduate to PhD levels. |
+| **NBER** | [Summer Institute](https://www.nber.org/summer-institute) | Recordings from the frontier of empirical. |
 | **Yale** | [Open Yale Courses](https://oyc.yale.edu/economics) | High-quality recordings of full semester courses from world-renowned professors like Robert Shiller. |
 
 ---
@@ -52,8 +54,11 @@ A curated collection of resources for the modern economist.
 
 ### 🤖 AI-Powered Research
 * [Elicit](https://elicit.org/) - An AI research assistant that automates literature reviews and finds direct answers from academic papers.
+* [Google Scholar](https://scholar.google.com/) - Essential for profiles, paper and citation tracking.
+* [NBER Working Papers](https://www.nber.org/papers?page=1&perPage=50&sortBy=public_date) - The most influential pipeline for cutting-edge macro and empirical research.
 * [ResearchRabbit](https://www.researchrabbit.ai/) - A visual discovery tool that maps citations and connects related papers to help you explore research "trees."
 * [Scite.ai](https://scite.ai/) - A platform that analyzes the context of citations to show if a paper’s claims are supported, mentioned, or contrasted.
+* [SSRN](https://www.ssrn.com/ssrn/) - The go-to preprint repository for economics and social science working papers.
 
 ### 📚 Bibliography & Portals
 * [AEA News](https://www.aeaweb.org/news) - The American Economic Association’s hub for the latest journal updates, calls for papers, and annual meeting announcements.
@@ -78,10 +83,14 @@ A curated collection of resources for the modern economist.
 ## 📊 Data Sources
 
 ### 🌍 Global Portals
+* [Eurostat](https://ec.europa.eu/eurostat) - Essential for European regional data.
 * 📈 [FRED (St. Louis Fed)](https://fred.stlouisfed.org/) - The premier database for U.S. and international macroeconomic time series data.
+* [ILOSTAT](https://ilostat.ilo.org/) - ILO's labor market data portal.
 * 💵 [IMF Data](https://www.imf.org/en/data) - A critical source for international financial statistics, exchange rates, and lending data.
 * 🏷️ [OECD iLibrary](https://www.oecd-ilibrary.org/statistics) - Comprehensive datasets and comparative indicators for developed economies and member nations.
 * 🌳 [Our World in Data](https://ourworldindata.org/) - A research-driven platform focusing on long-term global trends in health, poverty, and environment.
+* [Penn World Tables](https://www.rug.nl/ggdc/productivity/pwt/) - Datasets for cross-country growth and productivity comparisons.
+* [UN Comtrade](https://comtradeplus.un.org/) - The standard for bilateral trade flow data.
 * 🌐 [World Bank Open Data](https://data.worldbank.org/) - The primary gateway for global development indicators and micro-level survey data from emerging markets.
 
 ---
@@ -105,6 +114,8 @@ A curated collection of resources for the modern economist.
 * 🛠️ **[Git](https://git-scm.com/install/)** - Essential for version control, allowing researchers to track changes in code and collaborate securely.
 * 📄 **[LaTeX](https://www.latex-project.org/)** / **[Overleaf](https://www.overleaf.com/)** - The academic standard for typesetting papers with complex mathematical formulas and professional layouts.
 * 📑 **[LyX](https://www.lyx.org/)** - A "What You See Is What You Mean" document processor that simplifies the LaTeX experience.
+* **[Obsidian](https://obsidian.md/)** - Note-taking/knowledge management tool.
+* **[Quarto](https://quarto.org/)** - Modern replacement for R Markdown; increasingly standard for reproducible research documents.
 * 🗃️ **[Zotero](https://www.zotero.org/)** / **[Mendeley](https://www.mendeley.com/)** - Indispensable reference managers for organizing bibliographies and automating citations in various styles.
 
 ---
